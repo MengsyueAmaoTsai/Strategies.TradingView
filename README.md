@@ -1,1 +1,1 @@
-# RichillCapital.TradingBots.TradingView
+# RichillCapital.Strategies.TradingView
